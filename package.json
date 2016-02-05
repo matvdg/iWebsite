@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/matvdg/mysite/issues"
   },
-  "homepage": "https://github.com/matvdg/mysite#readme"
+  "homepage": "https://github.com/matvdg/mysite#readme",
+  "devDependencies": {
+    "minifier": "^0.7.1"
+  }
 }
