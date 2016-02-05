@@ -1,0 +1,19 @@
+{
+  "name": "mysite",
+  "version": "1.0.0",
+  "description": "Mathieu Vandeginste personal website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matvdg/mysite.git"
+  },
+  "author": "Mathieu Vandeginste",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matvdg/mysite/issues"
+  },
+  "homepage": "https://github.com/matvdg/mysite#readme"
+}
