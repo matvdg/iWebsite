@@ -53,11 +53,6 @@ a:hover {
         color: rgba(255, 255, 255, 0.8);
     }
 
-
-#main-container {
-    min-width: 910px;
-}
-
 .badges-container {
     width: 100%;
     text-align: center;
