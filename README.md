@@ -2,4 +2,4 @@
 (links to social networks, your blogs, CV...)
 
 
-![exemple](http://img11.hostingpics.net/pics/566757icloud.png)
+![exemple](http://img11.hostingpics.net/pics/131440icloud.png)
